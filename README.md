@@ -20,16 +20,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open `http://localhost:5000` in your browser.
-
-## Optional: Claude API
-
-To use the real Claude API instead of simulation, set:
-
-```bash
-export ANTHROPIC_API_KEY=your_key_here
-python app.py
-```
+Open `https://vidhiai-gaxc42v3jmzefeachdiqzs.streamlit.app/` in your browser.
 
 ## Project Structure
 
